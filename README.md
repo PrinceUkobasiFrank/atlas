@@ -4,6 +4,8 @@ A lightweight research companion designed for independent researchers, designers
 
 > "A beautiful desk where ideas are collected."
 
+https://useatlas.netlify.app/
+
 ## Features
 
 - **Contextual Greeting** — Time-aware greeting based on local time
